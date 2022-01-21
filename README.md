@@ -1,5 +1,6 @@
 # vuepress-plugin-demo-container-vue3
 # 介绍
+[文档中心](https://www.cjsound.cn/vuepress2-plugin/)
 一个基于Vuepress2的插件，它可以帮助你在编写文档的时候增加 Vue 示例，它的诞生初衷是为了降低编写组件文档时增加一些相关示例的难度。
 
 使用 Vuepress 编写组件示例有以下尴尬之处：

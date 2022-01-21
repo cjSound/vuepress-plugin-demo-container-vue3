@@ -2,7 +2,7 @@
  * @Author: 曹捷
  * @Date: 2020-02-26 11:45:28
  * @LastEditors: 曹捷
- * @LastEditTime: 2022-01-21 10:50:54
+ * @LastEditTime: 2022-01-21 11:03:35
  * @Description: file content
  */
 const { path } = require('@vuepress/utils')
@@ -16,7 +16,7 @@ It would not be recognized as a native HTML tag correctly by vue. */}
 
 module.exports = {
   // bundler: '@vuepress/webpack',
-  base: '/vuepress2-plugin',
+  base: '/vuepress2-plugin/',
   host: '0.0.0.0',
   title: 'vuepress2 container',
   description: '编写文档的增加 Vue 展示和代码示例',
