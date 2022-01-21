@@ -4,6 +4,8 @@
     "description": "Vuepress2 plugin for demo block.",
     "main": "src/index.js",
     "scripts": {
+      "doc": "vuepress dev docs",
+      "doc:build": "vuepress build docs"
     },
     "repository": {
       "type": "git",
@@ -18,6 +20,8 @@
         "ant-design-vue": "^2.2.6",
         "less": "^3.8.1",
         "less-loader": "^4.1.0",
+        "vite": "^2.7.10",
+        "vue": "^3.2.4",
         "vuepress-vite": "^2.0.0-beta.25"
     },
     "keywords": [
