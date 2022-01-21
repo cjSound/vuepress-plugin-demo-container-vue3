@@ -1,0 +1,38 @@
+{
+    "name": "vuepress-plugin-demo-container-vue3",
+    "version": "1.0.0",
+    "description": "Vuepress2 plugin for demo block.",
+    "main": "src/index.js",
+    "scripts": {
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/cjSound/vuepress-plugin-demo-container-vue3.git"
+    },
+    "dependencies":{
+        "markdown-it": "^12.3.2",
+        "markdown-it-container": "^3.0.0",
+        "escape-html": "1.0.3"
+    },
+    "devDependencies": {
+        "ant-design-vue": "^2.2.6",
+        "less": "^3.8.1",
+        "less-loader": "^4.1.0",
+        "vuepress-vite": "^2.0.0-beta.25"
+    },
+    "keywords": [
+      "documentation",
+      "plugin",
+      "vue",
+      "vuepress",
+      "vuepress2",
+      "demo",
+      "block"
+    ],
+    "author": "cjSound",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/cjSound/vuepress-plugin-demo-container-vue3/issues"
+    },
+    "homepage": "https://github.com/cjSound/vuepress-plugin-demo-container-vue3#readme"
+  }
