@@ -25,3 +25,8 @@ test/test1
 
 - md内容将被转换为对应的组件引用，并通过动态读对应组件实际文本内容，转换为示例输出
 
+
+## 参考示例
+
+- [vuepress-plugin-demo-container](https://github.com/calebman/vuepress-plugin-demo-container)
+- [Element Plus ](https://element-plus.gitee.io/zh-CN/component/alert.html)
