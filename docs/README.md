@@ -13,7 +13,7 @@ features:
     details: 支持动态引入配置的组件，无需手动加载
   - title: vuepress2
     details: 支持vuepress2和vue3
-footer:  MIT Licensed | Copyright  © 2022-present <a href="https://beian.miit.gov.cn" target="_blank">湘ICP备18020462号-1</a>
+footer:  MIT Licensed | Copyright  © 2022-present <a href="https://beian.miit.gov.cn" target="_blank">湘ICP备2021018233号</a>
 footerHtml: true
 ---
 ![图片](/img/cherry_tree.gif)

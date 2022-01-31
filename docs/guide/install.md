@@ -28,7 +28,7 @@ npm i vuepress-plugin-demo-container-vue3 --save-dev
 module.exports = {
   ...
   plugins: [[
-    require('./../../src'),
+    require('vuepress-plugin-demo-container-vue3'),
     {
       componentsDir: path.resolve(__dirname, './../examples')
     }
