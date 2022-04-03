@@ -1,46 +1,46 @@
 {
-    "name": "vuepress-plugin-demo-container-vue3",
-    "version": "1.0.0",
-    "description": "Vuepress2 plugin for demo block.",
-    "main": "src/index.js",
-    "scripts": {
-      "doc": "vuepress dev docs",
-      "deploy": "git pull && node deploy/index.js doc",
-      "doc:build": "vuepress build docs"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/cjSound/vuepress-plugin-demo-container-vue3.git"
-    },
-    "dependencies":{
-        "markdown-it": "^12.3.2",
-        "markdown-it-container": "^3.0.0",
-        "escape-html": "1.0.3"
-    },
-    "devDependencies": {
-        "ant-design-vue": "^2.2.6",
-        "less": "^3.8.1",
-        "less-loader": "^4.1.0",
-        "vite": "^2.7.10",
-        "vue": "^3.2.4",
-        "vuepress-vite": "^2.0.0-beta.25",
-        "rimraf": "^3.0.2",
-        "shelljs": "^0.8.4",
-        "ssh2-sftp-client": "^7.0.1"
-    },
-    "keywords": [
-      "documentation",
-      "plugin",
-      "vue",
-      "vuepress",
-      "vuepress2",
-      "demo",
-      "block"
-    ],
-    "author": "cjSound",
-    "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/cjSound/vuepress-plugin-demo-container-vue3/issues"
-    },
-    "homepage": "https://www.cjsound.cn/vuepress2-plugin/"
-  }
+  "name": "vuepress-plugin-demo-container-vue3",
+  "version": "1.0.0",
+  "description": "Vuepress2 plugin for demo block.",
+  "main": "src/index.js",
+  "scripts": {
+    "doc": "vuepress dev docs",
+    "deploy": "git pull && node deploy/index.js doc",
+    "doc:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cjSound/vuepress-plugin-demo-container-vue3.git"
+  },
+  "dependencies": {
+    "markdown-it": "^12.3.2",
+    "markdown-it-container": "^3.0.0",
+    "escape-html": "1.0.3"
+  },
+  "devDependencies": {
+    "ant-design-vue": "^2.2.6",
+    "less": "^3.8.1",
+    "less-loader": "^4.1.0",
+    "vite": "2.7.10",
+    "vue": "^3.2.4",
+    "vuepress-vite": "2.0.0-beta.25",
+    "rimraf": "^3.0.2",
+    "shelljs": "^0.8.4",
+    "ssh2-sftp-client": "^7.0.1"
+  },
+  "keywords": [
+    "documentation",
+    "plugin",
+    "vue",
+    "vuepress",
+    "vuepress2",
+    "demo",
+    "block"
+  ],
+  "author": "cjSound",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cjSound/vuepress-plugin-demo-container-vue3/issues"
+  },
+  "homepage": "https://www.cjsound.cn/vuepress2-plugin/"
+}
