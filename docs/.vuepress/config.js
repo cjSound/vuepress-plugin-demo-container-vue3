@@ -2,7 +2,7 @@
  * @Author: 曹捷
  * @Date: 2020-02-26 11:45:28
  * @LastEditors: 曹捷
- * @LastEditTime: 2022-01-21 11:03:35
+ * @LastEditTime: 2022-06-02 09:57:49
  * @Description: file content
  */
 const { path } = require('@vuepress/utils')
@@ -19,7 +19,7 @@ module.exports = {
   base: '/vuepress2-plugin/',
   host: '0.0.0.0',
   title: 'vuepress2 container',
-  description: '编写文档的增加 Vue 展示和代码示例',
+  description: '一次编写渲染组件预览效果和源码查看',
   port: 6001,
   head: [
     ['link', {
